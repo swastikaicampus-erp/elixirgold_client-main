@@ -64,15 +64,15 @@ export const siteConfig = {
   adminPortals: [
     {
       name: "Gwalior Admin",
-      href: "http://elixirgold.co.in/elixirgwl/login",
+      href: "https://elixirgold.co.in/admin/elixirgwl/login",
     },
     {
       name: "Etawah Admin",
-      href: "http://elixirgold.co.in/elixiretawah/login.php",
+      href: "https://elixirgold.co.in/admin/elixiretawah/login.php",
     },
     {
       name: "Dehradun Admin",
-      href: "http://elixirgold.co.in/elixiretawah/login.php",
+      href: "https://elixirgold.co.in/admin/elixiretawah/login.php",
     },
   ],
 

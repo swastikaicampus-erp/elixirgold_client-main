@@ -244,7 +244,7 @@ function App() {
               &copy; {new Date().getFullYear()} Elixir Gold. All rights reserved.
             </p>
             <div>
-                developed by <a href="https://goldberryintrest.web.app/">goldberryintrest.web.app/</a>
+                developed by <a href="https://goldberrytechnologies.com/">goldberrytechnologies.com/</a>
             </div>
           </div>
         </footer>
